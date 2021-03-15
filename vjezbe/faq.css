@@ -1,0 +1,17 @@
+body{
+    background-color: rgb(32, 32, 32);
+}
+h1{
+    text-align: center;
+    color: white;
+    font-family: Cursive;
+}
+a{
+    text-decoration: none;
+    color: white;
+    font-family: cursive;
+}
+a:hover{
+    color: red;
+    font-family: cursive;
+}

@@ -1,0 +1,14 @@
+body{
+    background-color: rgb(32, 32, 32);
+}
+h1{
+    text-align: center;
+    color: white;
+    font-family: Cursive;
+}
+.tekst{
+    padding: 90px 0px 150px 15px;
+    margin: 25px;
+    font-family: Cursive;
+    color:white;
+}

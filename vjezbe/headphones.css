@@ -1,0 +1,46 @@
+body{
+    background-color: rgb(32, 32, 32);
+}
+.holder{
+    align-items: inline;
+}
+h1{
+    text-align: center;
+    font-family: cursive;
+    color: white;
+}
+h2{
+    text-align: center;
+    font-family: cursive;
+    color: white;
+    padding-right:600px;
+    padding-top:400px;
+    margin-left: 600px;
+}
+.slusalice{
+    display: block;
+    width: 40%;
+    align-items: center;
+    padding-left: 240px;
+    float: left;
+}
+table {
+    font-family: cursive;
+    border-collapse: collapse;
+    width: 80%;
+    margin-left: 150px;
+} 
+td, th {
+    border: 1px solid black;
+    text-align: left;
+    padding: 8px;
+    /*background: white;*/
+}
+/*.tablica tr:nth-child(even){ 
+    background-color: red;
+}*/
+tr:nth-child(even) td { background-color: red; }
+tr:nth-child(odd) td { background-color: white; }
+th{
+    background: white;
+}

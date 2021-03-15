@@ -1,0 +1,56 @@
+body{
+    background-color: rgb(32, 32, 32);
+}
+.holder{
+    align-items: inline;
+}
+.slika-miša{
+    display: block;
+    width: 40%;
+    align-items: left;
+    padding: 90px 0px 25px 0px;
+    margin-left: 180px;
+    float: left;
+}
+.tekst{
+    text-align: right;
+    display: block;
+    float: right;
+    margin-top: 180px;
+    margin-right: 250px;
+    font-size: 18px;
+    font-family: Cursive;
+    clear: right;
+    color:white;
+}
+h1{
+    text-align: center;
+    font-family: cursive;
+    color: white;
+}
+.miš2{
+    display: block;
+    width: 40%;
+    align-items: left;
+    float: right;
+    margin-left: 180px;
+    margin-top: 250px;
+    margin-bottom: 100px;
+    margin-right: 150px;
+}
+.tekst2{
+    text-align: left;
+    display: block;
+    float: left;
+    font-size: 18px;
+    font-family: Cursive;
+    clear: left;
+    color:white;
+    margin-top: 350px;
+    margin-left: 180px;
+}
+#crveno{
+    color: red;
+    font-family: Cursive;
+    font-size: 18px;
+}

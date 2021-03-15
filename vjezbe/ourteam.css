@@ -1,0 +1,77 @@
+body{
+    background-color: rgb(32, 32, 32);
+}
+h1{
+    text-align: center;
+    font-family: cursive;
+    color: white;
+}
+.holder{
+    display: grid;
+    margin-top: 25px;
+    padding: 35px 35px 0px 35px;
+    grid-template: "a b c d";
+    align-content:space-between;
+	justify-content:space-between;
+}
+#Richard{
+    grid-area: a;
+}
+#Christine{
+    grid-area: b;
+}
+#James{
+    grid-area: c;
+}
+#Nora{
+    grid-area: d;
+}
+.tekstovi{
+    display: grid;
+    grid-template: "a b c d";
+    align-content:space-between;
+	justify-content:space-between;
+}
+#Ray{
+    grid-area: a;
+}
+#Curry{
+    grid-area: b;
+}
+#Keller{
+    grid-area: c;
+}
+#Berry{
+    grid-area: d;
+}
+.crveno{
+    color:red;
+}
+.bijelo{
+    color: white;
+}
+#RR{
+    margin-left: 85px; 
+
+}
+#Director{
+    margin-left: 115px;
+}
+#CC{
+    margin-left: 85px;
+}
+#MM{
+    margin-left: 88px;
+}
+#JK{
+    margin-left: 85px;
+}
+#SFD{
+    margin-left: 55px;
+}
+#NB{
+    margin-left: 45px;
+}
+#JBD{
+    margin-right: 50px;
+}
